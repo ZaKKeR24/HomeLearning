@@ -1,1 +1,5 @@
-Hey! What a hell are u doing here.
+#!/bin/bash
+# our comment is here
+echo "hello Alexandre!"
+echo "text found in :"
+pwd
